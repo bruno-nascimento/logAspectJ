@@ -1,0 +1,13 @@
+-source
+1.6
+-target
+1.6
+-classpath
+/home/bruno/.m2/repository/org/aspectj/aspectjrt/1.7.3/aspectjrt-1.7.3.jar:/home/bruno/.m2/repository/org/aspectj/aspectjtools/1.7.3/aspectjtools-1.7.3.jar:/home/bruno/.m2/repository/org/aspectj/aspectjweaver/1.7.3/aspectjweaver-1.7.3.jar:/home/bruno/basis/workspace/oap/aspectLog/target/classes
+-d
+/home/bruno/basis/workspace/oap/aspectLog/target/classes
+/home/bruno/basis/workspace/oap/aspectLog/src/aspectLog/Teste.java
+/home/bruno/basis/workspace/oap/aspectLog/src/aspectLog/AlteraEntidade.java
+/home/bruno/basis/workspace/oap/aspectLog/src/aspectLog/Entidade.java
+/home/bruno/basis/workspace/oap/aspectLog/src/aspectLog/Log.java
+/home/bruno/basis/workspace/oap/aspectLog/src/aspectLog/Aspecto1.aj
